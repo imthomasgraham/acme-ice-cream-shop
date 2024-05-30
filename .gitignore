@@ -1,0 +1,13 @@
+# Environment variables file
+.env
+
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
